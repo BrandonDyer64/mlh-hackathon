@@ -95,10 +95,10 @@ section {
 }
 
 .hero .buttons a {
-  background: white;
+  background: lightgray;
   border: none;
   border-radius: 40px;
-  color: #0F2C34;
+  color: white;
   display: inline;
   font-family: Montserrat;
   font-size: 24px;
