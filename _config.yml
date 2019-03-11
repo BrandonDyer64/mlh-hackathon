@@ -30,10 +30,10 @@ seo:
 
 # Event information.
 event:
-  name:        "Example Hacks"
-  description: "This is a sample hackathon website that you can use by following instructions on GitHub."
-  date:        "5 & 6 August 2016"
-  location:    "Holmdel, NJ, United States"
+  name:        "RSI Hacks"
+  description: "Lorem Ipsum dolor sit amet."
+  date:        "0/0 Month 2019"
+  location:    "Oklahoma City"
 
   trust_badge:
     year:   "2019"  # season year
