@@ -44,10 +44,10 @@ event:
     links:
       - text: "Apply"
         my_mlh:
-          client_id:    "0e2f9fc2921d3ad3e12ae900af630d09382e1b3dc1b5b50de2b01b70ad64dbee"
-          redirect_uri: "https://mlh.github.io/mlh-hackathon-boilerplate/success.html"
+          client_id:    "1d3bb3af648a75e9d991d8dd32e36155cffc1b9523381e28dda11f9e82961ce2"
+          redirect_uri: "https://BrandonDyer64.github.io/mlh-hackathon/success.html"
       - text: "Sponsor"
-        href: "mailto:sponsorship@website.com"
+        href: "mailto:hackathonsponsor@website.com"
 
   about:
     description: >
