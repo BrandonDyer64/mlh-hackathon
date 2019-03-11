@@ -36,8 +36,8 @@ event:
   location:    "Holmdel, NJ, United States"
 
   trust_badge:
-    year:   "2017"  # season year
-    region: "eu"    # "na" or "eu"
+    year:   "2019"  # season year
+    region: "na"    # "na" or "eu"
     color:  "white" # "white", "black", "gray", "red", "blue" or "yellow"
 
   hero:
@@ -86,7 +86,7 @@ event:
         have graduated within the past 12 months are eligible to attend.
     - question: "Where is the event?"
       answer: >
-        The event is being hosted at [insert venue location here].
+        The event is being hosted at Rural Sourcing OKC.
     - question: "What is Major League Hacking?"
       answer: >
         Major League Hacking is [the official student hackathon league](https://mlh.io) in North America & Europe.
